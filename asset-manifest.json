@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dari04.github.io/csb-6yfus/static/css/main.31dd3f45.chunk.css",
+    "main.js": "https://dari04.github.io/csb-6yfus/static/js/main.6757dfe6.chunk.js",
+    "main.js.map": "https://dari04.github.io/csb-6yfus/static/js/main.6757dfe6.chunk.js.map",
+    "runtime-main.js": "https://dari04.github.io/csb-6yfus/static/js/runtime-main.73b004b3.js",
+    "runtime-main.js.map": "https://dari04.github.io/csb-6yfus/static/js/runtime-main.73b004b3.js.map",
+    "static/js/2.bab07460.chunk.js": "https://dari04.github.io/csb-6yfus/static/js/2.bab07460.chunk.js",
+    "static/js/2.bab07460.chunk.js.map": "https://dari04.github.io/csb-6yfus/static/js/2.bab07460.chunk.js.map",
+    "index.html": "https://dari04.github.io/csb-6yfus/index.html",
+    "static/css/main.31dd3f45.chunk.css.map": "https://dari04.github.io/csb-6yfus/static/css/main.31dd3f45.chunk.css.map",
+    "static/js/2.bab07460.chunk.js.LICENSE.txt": "https://dari04.github.io/csb-6yfus/static/js/2.bab07460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b004b3.js",
+    "static/js/2.bab07460.chunk.js",
+    "static/css/main.31dd3f45.chunk.css",
+    "static/js/main.6757dfe6.chunk.js"
+  ]
+}
